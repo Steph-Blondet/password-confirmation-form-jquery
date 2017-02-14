@@ -11,7 +11,7 @@ Technologies Used:
 
 
 ## Desktop View
-![Pasword Confirmation Form](project-img/desktop-view.png "Desktop View")
+![Pasword Confirmation Form](project-img/desktopView.png "Desktop View")
 
 
 ---------
